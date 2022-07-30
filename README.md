@@ -33,4 +33,4 @@ Connect your physical device and load APK file (Rebuild project + Run app).<br>
 <h3>Some screenshots from the game:</h3>
 ![screen_flag_ukraine.png](screen_flag_ukraine.png)
 ![screen_flag_canada.png](screen_flag_canada.png)
-<img alt="screen_flag_canada.png" height="200" src="screen_flag_canada.png" width="150"/>
+<img alt="screen_flag_canada.jpg" height="200" src="screen_flag_canada.jpg" width="150"/>
