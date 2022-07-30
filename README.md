@@ -31,5 +31,5 @@ SDK platform packages (from version 4.4 and higher). On folder VCS to chose Git 
 Connect your physical device and load APK file (Rebuild project + Run app).<br>
 
 <h3>Some screenshots from the game:</h3>
-<img alt="res/screen_flag_ukraine" height="150" src="res/screen_flag_ukraine.png" width="150"/>
-<img alt="res/screen_flag_canada.png" height="200" src="res/screen_flag_canada.png" width="150"/>
+<img alt="screen_flag_ukraine" height="150" src="screen_flag_ukraine.png" width="150"/>
+<img alt="screen_flag_canada.png" height="200" src="screen_flag_canada.png" width="150"/>
